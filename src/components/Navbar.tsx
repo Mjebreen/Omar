@@ -17,7 +17,7 @@ const Navbar = () => {
             <img src="/logo.svg" alt="Naqd Logo" className="h-8 w-8" />
           </div>
           <div className="flex flex-col">
-            <span className="text-xl font-bold text-white">Mohammed Bin Jebreen</span>
+            <span className="text-xl font-bold text-white">Omar Ramadan</span>
             <span className="text-xs text-purple-300 -mt-1">Naqd App</span>
           </div>
         </div>

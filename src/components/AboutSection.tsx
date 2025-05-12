@@ -16,9 +16,9 @@ const AboutSection = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold mb-2">Creative Thinking</h3>
+            <h3 className="text-xl font-semibold mb-2">Design-Focused</h3>
             <p className="text-gray-600">
-              I approach each project with fresh ideas and innovative solutions to create experiences that stand out.
+            Approaches every project with attention to layout, usability, and simplicity—ensuring a clear experience for both users and developers.
             </p>
           </Card>
           
@@ -28,9 +28,9 @@ const AboutSection = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
               </svg>
             </div>
-            <h3 className="text-xl font-semibold mb-2">Detail-Oriented</h3>
+            <h3 className="text-xl font-semibold mb-2">Quick to Adapt</h3>
             <p className="text-gray-600">
-              I pay close attention to every aspect of the design process, ensuring polished and refined end products.
+            omfortable stepping into new environments, learning tools on the go, and adjusting to evolving project requirements.
             </p>
           </Card>
           
@@ -50,9 +50,7 @@ const AboutSection = () => {
         <div className="mt-16 bg-gray-50 rounded-lg p-8 max-w-3xl mx-auto">
           <h3 className="text-2xl font-semibold mb-4">My Background</h3>
           <p className="text-gray-600 mb-4">
-          With years of hands-on experience in esports operations, IT infrastructure, and software development, I’ve developed a strong ability to bridge the gap between technical systems and real-world workflows. My journey began in competitive gaming, where I learned the value of performance, precision, and systems that just work under pressure.
-
-Since then, I’ve led the development and management of gaming facilities, internal platforms, and automation tools, streamlining everything from shared services and device management to network optimization. Whether working with startups or building out core infrastructure, I focus on creating intuitive, efficient solutions that support teams at scale.
+          Involved in various projects spanning web and mobile applications, with a focus on the design process and cross-functional coordination. Experience includes contributing to service and logistics platforms and participating in university-led initiatives. Academic foundation from Al Yamamah University, with exposure to both individual and team-based project environments.
           </p>
         
         </div>

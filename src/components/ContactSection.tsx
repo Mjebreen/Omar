@@ -28,42 +28,13 @@ const ContactSection = () => {
                   <div className="h-10 w-10 rounded-full naqd-gradient-bg flex items-center justify-center mr-4">
                     <Mail className="h-5 w-5 text-white" />
                   </div>
-                  <a href="mailto:me@mjebreen.com" className="text-gray-700 hover:text-naqd-purple transition-colors">
-                    me@mjebreen.com
+                  <a href="mailto:ohr2001@yahoo.com" className="text-gray-700 hover:text-naqd-purple transition-colors">
+                    ohr2001@yahoo.com
                   </a>
                 </div>
               </div>
               
-              <h4 className="font-semibold mb-3">Find me on</h4>
-              <div className="flex space-x-4 justify-center">
-                <a 
-                  href="https://github.com/Mjebreen" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="h-12 w-12 rounded-full bg-gray-100 hover:bg-naqd-light-purple transition-colors flex items-center justify-center"
-                  aria-label="GitHub Profile"
-                >
-                  <Github className="h-6 w-6 text-gray-700" />
-                </a>
-                <a 
-                  href="https://www.linkedin.com/in/mjebreen/" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="h-12 w-12 rounded-full bg-gray-100 hover:bg-naqd-light-purple transition-colors flex items-center justify-center"
-                  aria-label="LinkedIn Profile"
-                >
-                  <Linkedin className="h-6 w-6 text-gray-700" />
-                </a>
-                <a 
-                  href="https://x.com/msjebreen" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="h-12 w-12 rounded-full bg-gray-100 hover:bg-naqd-light-purple transition-colors flex items-center justify-center"
-                  aria-label="X Profile"
-                >
-                  <img src="/xlogo.svg" alt="X Logo" className="h-5 w-5" />
-                </a>
-              </div>
+              
             </div>
           </Card>
         </div>
